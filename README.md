@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9ee9a130-d45d-477c-be0a-59e59a5602fe)<h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
+<h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
 <h3>Name:Harshavardhan </h3>
 <h3>Register Number: 212222240114     </h3>
 <H3>Aim:</H3>
@@ -55,7 +55,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 </ol></B>
 
 <hr>
-<h3>Program</h3>h3>
+<h3>Program: </h3>
+
 ```python
 from collections import defaultdict
 
@@ -116,6 +117,7 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+
 
 <hr>
 <h3>Result:</h3>
